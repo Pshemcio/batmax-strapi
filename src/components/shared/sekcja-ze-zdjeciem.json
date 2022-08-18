@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_sekcja_ze_zdjeciems",
+  "info": {
+    "displayName": "Sekcja ze zdjęciem",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "list": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.lista-z-ikonami"
+    },
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

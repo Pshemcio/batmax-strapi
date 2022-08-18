@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_shared_list_heading_icon",
+  "info": {
+    "displayName": "Lista z nagłówkiem i ikonami",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "lead": {
+      "type": "text"
+    },
+    "list": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.lista-z-ikonami",
+      "required": true
+    },
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

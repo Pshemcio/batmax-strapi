@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_home_infos",
+  "info": {
+    "displayName": "Info",
+    "icon": "arrow-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "lead": {
+      "type": "richtext",
+      "required": true
+    },
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

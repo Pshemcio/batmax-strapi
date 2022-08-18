@@ -1,0 +1,52 @@
+{
+  "collectionName": "components_shared_footer_forms",
+  "info": {
+    "displayName": "Footer form",
+    "icon": "balance-scale-left"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Masz pytanie?"
+    },
+    "lead": {
+      "type": "string",
+      "default": "Napisz je tutaj a my się z Tobą skontaktujemy."
+    },
+    "name": {
+      "type": "string",
+      "default": "Imię/Firma"
+    },
+    "email": {
+      "type": "string",
+      "default": "Email"
+    },
+    "phone": {
+      "type": "string",
+      "default": "Telefon"
+    },
+    "message": {
+      "type": "string",
+      "default": "O co chcesz zapytać?"
+    },
+    "button": {
+      "type": "string",
+      "default": "Wyślij"
+    },
+    "downloadIcon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "submitMessage": {
+      "type": "string"
+    },
+    "errorMessage": {
+      "type": "string"
+    }
+  }
+}

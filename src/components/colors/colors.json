@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_colors_colors",
+  "info": {
+    "displayName": "colors",
+    "icon": "arrows-alt"
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "lead": {
+      "type": "string"
+    }
+  }
+}

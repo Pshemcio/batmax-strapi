@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_menu_menu_glownes",
+  "info": {
+    "displayName": "Menu główne",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "nav_1": {
+      "type": "string",
+      "required": true
+    },
+    "nav_2": {
+      "type": "string",
+      "required": true
+    },
+    "nav_3": {
+      "type": "string",
+      "required": true
+    },
+    "nav_4": {
+      "type": "string",
+      "required": true
+    },
+    "nav_5": {
+      "type": "string",
+      "required": true
+    },
+    "nav_6": {
+      "type": "string",
+      "required": true
+    },
+    "nav_7": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

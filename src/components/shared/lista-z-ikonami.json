@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_shared_lista_z_ikonamis",
+  "info": {
+    "displayName": "Lista z ikonami",
+    "icon": "air-freshener"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "lead": {
+      "type": "text"
+    },
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
